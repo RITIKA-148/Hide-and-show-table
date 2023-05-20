@@ -1,0 +1,61 @@
+.container{
+    background-image:  url("https://static.vecteezy.com/system/resources/previews/004/968/002/original/cute-abstract-modern-background-free-vector.jpg");
+
+}
+.head{
+    font-family: 'Lobster', cursive;
+    font-size: 79px;
+    color: darkcyan;
+
+
+}
+.hide{
+    color: #fff;
+    display: inline-block;
+    padding: 9px 24px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 445px;
+    background-color:darkcyan;
+
+}
+.show{
+    color: #fff;
+    display: inline-block;
+    padding: 9px 24px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 23px;
+    background-color: darkcyan;
+
+}
+.tr{
+    background-color: cadetblue;
+}
+.logo{
+    padding-left: 83px;
+    margin-top: 17px;
+    margin-left: -109px;
+
+    
+}
+.new{
+    background-color: #fff;
+}
+.second{
+width:121px;
+}
